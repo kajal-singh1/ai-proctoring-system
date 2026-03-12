@@ -1,0 +1,15 @@
+# Virtual environment
+proctor_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Generated data
+*.csv
+
+# Large ML models
+*.caffemodel
