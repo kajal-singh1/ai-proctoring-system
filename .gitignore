@@ -5,11 +5,15 @@ proctor_env/
 __pycache__/
 *.pyc
 
-# Logs
+# Logs and generated data
+*.csv
 *.log
 
-# Generated data
-*.csv
+# OS files
+.DS_Store
+Thumbs.db
 
 # Large ML models
 *.caffemodel
+*.dat
+
