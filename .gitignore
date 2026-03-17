@@ -17,3 +17,6 @@ Thumbs.db
 *.caffemodel
 *.dat
 
+violations.csv
+.vscode/
+
